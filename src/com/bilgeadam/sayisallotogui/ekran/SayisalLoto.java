@@ -21,7 +21,7 @@ public class SayisalLoto extends JFrame {
 
         add(jPanel1);
         setTitle("SAYISAL LOTO v1.0");
-        setSize(600, 300);
+        setSize(400, 200);
         setLocationRelativeTo(null);
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 
